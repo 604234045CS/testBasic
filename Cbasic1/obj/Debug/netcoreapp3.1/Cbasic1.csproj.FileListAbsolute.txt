@@ -1,0 +1,13 @@
+C:\xampp\htdocs\Cbasic1\Cbasic1\bin\Debug\netcoreapp3.1\Cbasic1.exe
+C:\xampp\htdocs\Cbasic1\Cbasic1\bin\Debug\netcoreapp3.1\Cbasic1.deps.json
+C:\xampp\htdocs\Cbasic1\Cbasic1\bin\Debug\netcoreapp3.1\Cbasic1.runtimeconfig.json
+C:\xampp\htdocs\Cbasic1\Cbasic1\bin\Debug\netcoreapp3.1\Cbasic1.runtimeconfig.dev.json
+C:\xampp\htdocs\Cbasic1\Cbasic1\bin\Debug\netcoreapp3.1\Cbasic1.dll
+C:\xampp\htdocs\Cbasic1\Cbasic1\bin\Debug\netcoreapp3.1\Cbasic1.pdb
+C:\xampp\htdocs\Cbasic1\Cbasic1\obj\Debug\netcoreapp3.1\Cbasic1.csprojAssemblyReference.cache
+C:\xampp\htdocs\Cbasic1\Cbasic1\obj\Debug\netcoreapp3.1\Cbasic1.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Cbasic1\Cbasic1\obj\Debug\netcoreapp3.1\Cbasic1.AssemblyInfo.cs
+C:\xampp\htdocs\Cbasic1\Cbasic1\obj\Debug\netcoreapp3.1\Cbasic1.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Cbasic1\Cbasic1\obj\Debug\netcoreapp3.1\Cbasic1.dll
+C:\xampp\htdocs\Cbasic1\Cbasic1\obj\Debug\netcoreapp3.1\Cbasic1.pdb
+C:\xampp\htdocs\Cbasic1\Cbasic1\obj\Debug\netcoreapp3.1\Cbasic1.genruntimeconfig.cache
